@@ -1,12 +1,12 @@
 <p align="left"> <img src="Assets/Img/banner-readme.png"/></p>
 
-Um jogo de labirinto baseado no Mito do Minotauro.
+Um jogo de labirinto feito no Unity baseado no Mito do Minotauro.
 
 # Sobre o Projeto
 
 ### Instalação do jogo
 
-Para baixar o jogo acesse a página no Itch.io [clicando aqui](https://snkool.itch.io/labyrinthe).
+Para baixar o jogo acesse a página no Itch.io [clicando aqui.](https://snkool.itch.io/labyrinthe)
 
 ### Screenshots
 
