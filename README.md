@@ -1,4 +1,4 @@
-<p align="left"> <img width="900" src="Assets/Img/banner-readme.png"/></p>
+<p align="left"> <img src="Assets/Img/banner-readme.png"/></p>
 
 Um jogo de labirinto baseado no Mito do Minotauro.
 
