@@ -10,15 +10,15 @@ Para baixar o jogo acesse a página no Itch.io [clicando aqui](https://snkool.it
 
 ### Screenshots
 
-<img src="Assets/Img/1.png"/>
+<img src="Assets/Img/1.jpg"/>
 
-<img src="Assets/Img/2.png"/>
+<img src="Assets/Img/2.jpg"/>
 
-<img src="Assets/Img/3.png"/>
+<img src="Assets/Img/3.jpg"/>
 
-<img src="Assets/Img/4.png"/>
+<img src="Assets/Img/4.jpg"/>
 
-<img src="Assets/Img/5.png"/>
+<img src="Assets/Img/5.jpg"/>
 
 
 
