@@ -4,11 +4,11 @@ Um jogo de labirinto baseado no Mito do Minotauro.
 
 # Sobre o Projeto
 
-###Instalação do jogo
+### Instalação do jogo
 
 Para baixar o jogo acesse a página no Itch.io [clicando aqui](https://snkool.itch.io/labyrinthe).
 
-###Screenshots
+### Screenshots
 
 <img src="Assets/Img/1.png"/>
 
